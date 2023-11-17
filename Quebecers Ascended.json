@@ -1,0 +1,67 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 2,
+          "buttontext": "Welcome/Bienvenue",
+          "title1": "Quebecer's Ascended Server",
+          "text1": "<TextStyle.LightBlue>Basic rules\n\n\\- No meshing.\n\n- No use of any type of glitch.\n\n- Respect other players.\n\n\nThere is no active Admin on this server.\n\n\nIf you have a big problem or any construtives suggestions, you can contact us at:\nquebecersarkserver@gmail.com\n\n\n\n",
+          "title2": "Serveur Ascended des Quebecers",
+          "text2": "<TextStyle.LightBlue>Règles de base\n\n\\- Interdit de construire sous la map.\n\n- Interdit d'utiliser tout type de glitch.\n\n- Respecter les autres joueurs.\n\n\nIl n'y a pas d'Admin actif sur ce serveur.\n\n\nSi vous avez un gros problème ou des suggetions constructives, vous pouvez nous contacter à l'adresse suivante:\nquebecersarkserver@gmail.com\n\n\n\n ",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": ""
+        }
+      },
+      {
+        "link2": {
+          "text": "Wiki",
+          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+        }
+      },
+      {
+        "link3": {
+          "text": "CurseForge",
+          "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
+        }
+      },
+      {
+        "link4": {
+          "text": "JSON-Validator",
+          "url": "https://jsonlint.com"
+        }
+      },
+      {
+        "link5": {
+          "text": "Github",
+          "url": "https://github.com"
+        }
+      },
+      {
+        "link6": {
+          "text": "Imgur",
+          "url": "https://imgur.com"
+        }
+      }
+    ]
+  }
+}
